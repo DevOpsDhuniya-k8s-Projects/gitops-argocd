@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: sreemanthenaclouddevops/solar-system:v6
+      - image: sreemanthenaclouddevops/solar-system:v3
         name: solar-system
         imagePullPolicy: Always
         ports: 
